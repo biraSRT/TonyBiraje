@@ -6,5 +6,3 @@ I'm Tony Jos Biraje, I'm a software devloper 👨‍💻 who is passionate about
 - 🔭 I’m currently working on full-stack MERN Applications
 - 🌱 I’m currently learning PHP and Typescript
 -  ⚡ Languages: Javascript, C++, HTML, CSS
-
-
